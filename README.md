@@ -10,3 +10,4 @@ Fine-tuning of the GPT-2 model is performed with pytorch and transformers. Vario
 The GPT-2 was slightly adjusted by introducing two special delimiter tokens to separate between company description and the creative content.  
 The objective function is to minimize the cross-entropy, so the dataset is split into train and test validation set to ensure cross-entropy is decreasing for new data.  
 Streamlit app framework was used to create the web app. 
+![image](https://user-images.githubusercontent.com/16983515/119693692-00a12800-bdf9-11eb-9264-6a688c9ebdaa.png)
