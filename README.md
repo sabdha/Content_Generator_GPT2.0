@@ -1,4 +1,4 @@
-# Content Generator  - Work In Progress
+# Content Generator
 Tools and Techniques: Python, Pytorch, Streamlit, GPT-2  
 
 Description:  
